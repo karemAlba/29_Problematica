@@ -1,4 +1,5 @@
 @import 'https://fonts.googleapis.com/css?family=Lobster';
+@import 'https://fonts.googleapis.com/css?family=Indie+Flower';
 
 nav.navbar{/*Color del nav bar*/
 	background-color: #1AAF28;
@@ -71,12 +72,29 @@ nav.navbar{/*Color del nav bar*/
 	margin-top: 3%;
 }
 button{
-	margin-top: 5%; 
+	margin-top: 2%; 
 }
 footer{
 	background-color: #1AAF28;
 	color: white;
 	margin-top: 3%;
 	padding: 1%;
-
+}
+.texto {
+	font-family: 'Indie Flower', cursive;
+	font-size: 15px;
+	margin-top: 5%;
+}
+h2{
+	font-family: 'Indie Flower', cursive;
+}
+.opaco{
+	background-color: #76CB7E;
+	opacity: 0.5;
+	color: white;	
+}
+.rotate :hover{
+-webkit-transform:rotateZ (-30deg);
+-ms-transform:rotateZ (-30deg);
+transform:rotateZ (-30deg);
 }
