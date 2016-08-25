@@ -82,7 +82,7 @@ footer{
 }
 .texto {
 	font-family: 'Indie Flower', cursive;
-	font-size: 15px;
+	font-size: 20px;
 	margin-top: 5%;
 }
 h2{
@@ -93,8 +93,11 @@ h2{
 	opacity: 0.5;
 	color: white;	
 }
-.rotate :hover{
+.thumbnail:hover{
 -webkit-transform:rotateZ (-30deg);
 -ms-transform:rotateZ (-30deg);
 transform:rotateZ (-30deg);
+}
+a link{
+	text-decoration: none;
 }
