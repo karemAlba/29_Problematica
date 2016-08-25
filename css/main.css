@@ -53,20 +53,30 @@ nav.navbar{/*Color del nav bar*/
 	background-image: url("../img/1.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
-	height: 200px;
+	height: 300px;
 	margin-top: 3%;
 }
 #img2{
 	background-image: url("../img/2.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
-	height: 200px;
+	height: 300px;
 	margin-top: 3%;
 }
 #img3{
 	background-image: url("../img/3.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
-	height: 200px;
+	height: 300px;
 	margin-top: 3%;
+}
+button{
+	margin-top: 5%; 
+}
+footer{
+	background-color: #1AAF28;
+	color: white;
+	margin-top: 3%;
+	padding: 1%;
+
 }
