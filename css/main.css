@@ -29,7 +29,8 @@ nav.navbar{/*Color del nav bar*/
 	margin-top: 5%;
 	background-color: #7FB3D5;
 	box-shadow: 2px 2px 5px #999;
-
+	width: 50%;
+	margin-left: 5%;
 }
 .thumbnail1{
 	margin-top: 12%;
@@ -39,5 +40,33 @@ nav.navbar{/*Color del nav bar*/
 	width: 80%;
 	margin-left: 10%;
 	box-shadow: 2px 2px 5px #999;
-	text-shadow: 5px 5px 5px #999;
+	text-shadow: 5px 10px 5px black;
+}
+.glyphicon{
+	color: #1AAF28;
+	text-shadow: 5px 5px 5px black;
+	font-size: 600%;
+	margin-top: 15%;
+	margin-bottom: 5%;
+}
+#img1{
+	background-image: url("../img/1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 200px;
+	margin-top: 3%;
+}
+#img2{
+	background-image: url("../img/2.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 200px;
+	margin-top: 3%;
+}
+#img3{
+	background-image: url("../img/3.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 200px;
+	margin-top: 3%;
 }
